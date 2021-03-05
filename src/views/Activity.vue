@@ -1,6 +1,6 @@
 <template>
     <div>
-About
+Activity
     </div>
 </template>
 

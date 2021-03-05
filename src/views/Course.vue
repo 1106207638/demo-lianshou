@@ -1,6 +1,6 @@
 <template>
     <div>
-About
+Course
     </div>
 </template>
 

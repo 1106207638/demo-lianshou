@@ -1,6 +1,6 @@
 <template>
     <div>
-About
+News
     </div>
 </template>
 
